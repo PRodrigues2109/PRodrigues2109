@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil✨
 Meu nome é Poliana Rodrigues
--Estou estudando na Alura
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+## Estou estudando na Alura
+## Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você pode entrar em contato comigo 📫
 00001113837482sp@al.educacao.sp.gov.br
 
